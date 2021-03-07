@@ -126,7 +126,7 @@ main {
 }
 .main-tables-container {
     display: flex;
-    height: 316px;
+    height: 285px;
     overflow-x: scroll;
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
@@ -421,7 +421,7 @@ main {
 .main-plans-container {
     width: 100%;
     min-width: 320px;
-    padding-bottom: 64px;
+    padding-bottom: 40px;
     text-align: center;
     background-color: var(--off-white);
 }
@@ -431,7 +431,7 @@ main {
     height: auto;
     margin: 0 auto;
     margin-top: 64px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 .plans--title h2 {
     margin-bottom: 24px;
